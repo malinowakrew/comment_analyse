@@ -1,0 +1,14 @@
+                                                  text            user
+0                                                   :D       Anonymous
+1    ojej, uzupe³nia³aœ usta? coœ niefajnego sta³o ...       Anonymous
+2                                                  nie           Laura
+3    Hej Laura, czy masz ciagle przeciwsloneczne ra...       Anonymous
+4                   gdzieœ s¹, musia³abym zlokalizowaæ           Laura
+..                                                 ...             ...
+249  Hej, zdradzisz jaki masz rozmiar spodni z hibo...       Anonymous
+250               L :) w³aœnie te¿ chcia³am luŸniejsze           Laura
+251  https://allegro.pl/oferta/plaszcz-w-krate-krat...       Anonymous
+252             Genialnie to wygl¹da! Piêkna jesteœ ;D  Beautyextra.pl
+253  Ta sukienka œwietnie pasuje do Ciebie i Twojej...              m.
+
+[254 rows x 2 columns]
