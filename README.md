@@ -10,6 +10,8 @@ The gole for this project is to create an analyse of comments in Polish language
 * Pnadas
 * NumPy
 * matplotlib
-* wo
+* wordcloud
+* bs4
+* requests
 
 
